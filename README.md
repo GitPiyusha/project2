@@ -1,2 +1,2 @@
 # New Project
-This project was greated for github trial
+This project was created for github trial
